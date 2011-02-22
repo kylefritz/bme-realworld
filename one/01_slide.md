@@ -41,8 +41,9 @@
 # What is work like? #
 
 * "i do what i want"
-* No one knows when youre lying/wrong
-* Gain experience at 99MPH
+* make stuff up
+* no one knows when youre lying/wrong
+* gain experience at 99MPH
 
 !SLIDE bullets incremental
 # How do you get there?#
