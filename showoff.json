@@ -1,1 +1,8 @@
-{ "name": "Kyle Fritz BME Real World 2011", "sections": [ {"section":"one"} ]}
+{ "name": "Kyle Fritz BME Real World 2011", "sections": [ {"section":"1_hikyle"},
+{"section":"2_gothere"},
+{"section":"3_sftwr"},
+{"section":"4_wedo"},
+{"section":"5_ido"},
+{"section":"6_building"},
+{"section":"7_youdo"}
+ ]}
