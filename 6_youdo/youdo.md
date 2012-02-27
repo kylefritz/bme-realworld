@@ -5,7 +5,7 @@
 * or stay here
 * (it's fun here)
 
-!SLIDE bullets incremental
+!SLIDE center
 ![slice](slice.png)
 
 !SLIDE bullets incremental
