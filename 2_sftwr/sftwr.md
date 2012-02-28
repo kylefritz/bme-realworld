@@ -20,7 +20,7 @@
 
 !SLIDE bullets incremental
 # Medium Team
-* 6 developers
+* 5 developers
 * 2 designers
 * 2-3 biz/dev people
 * 1-2 marketing
